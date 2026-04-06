@@ -138,20 +138,6 @@ Developed an interactive dashboard to present insights visually.
 
 ---
 
-## Project Structure
-customer_churn_analysis/
-│
-├── data/
-│ └── churn_cleaned.csv
-│
-├── notebook/
-│ └── churn_analysis.ipynb
-│
-├── dashboard/
-│ └── churn_dashboard.pbix
-
----
-
 ## Key Learnings
 
 - Importance of data cleaning in real-world datasets  
