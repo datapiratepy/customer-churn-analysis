@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis (Python + Power BI)
+# Customer Churn Analysis (Python + Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 Customer churn is a critical problem for subscription-based businesses, directly impacting revenue and growth. This project analyzes customer churn behavior using a combination of Python-based data analysis and Power BI visualization to identify key drivers of churn and provide actionable business insights.
 
@@ -8,7 +8,7 @@ The project follows an end-to-end analytics workflow, including data cleaning, e
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand customer behavior and identify patterns leading to churn  
 - Perform data cleaning and preprocessing on a real-world dataset  
@@ -19,7 +19,7 @@ The project follows an end-to-end analytics workflow, including data cleaning, e
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - Dataset: Telco Customer Churn Dataset  
 - Contains customer information such as:
@@ -32,7 +32,7 @@ The project follows an end-to-end analytics workflow, including data cleaning, e
 
 ---
 
-## 🧹 Data Preprocessing (Python)
+## Data Preprocessing (Python)
 
 Performed using **Pandas**:
 
@@ -44,7 +44,7 @@ Performed using **Pandas**:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Conducted using **Matplotlib and Seaborn**:
 
@@ -57,7 +57,7 @@ Key analyses performed:
 
 ---
 
-## 🤖 Machine Learning (Basic)
+## Machine Learning (Basic)
 
 Implemented using **Scikit-learn**:
 
@@ -75,7 +75,7 @@ Implemented using **Scikit-learn**:
 
 ---
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 Developed an interactive dashboard to present insights visually.
 
@@ -89,7 +89,7 @@ Developed an interactive dashboard to present insights visually.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 ### 1. Contract Type is the Strongest Driver
 - Month-to-month customers show ~40%+ churn  
@@ -117,7 +117,7 @@ Developed an interactive dashboard to present insights visually.
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Encourage long-term contracts through incentives  
 - Improve onboarding experience in first 3 months  
@@ -126,7 +126,7 @@ Developed an interactive dashboard to present insights visually.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python**
 - **Pandas**
@@ -138,7 +138,7 @@ Developed an interactive dashboard to present insights visually.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 customer_churn_analysis/
 │
 ├── data/
@@ -152,7 +152,7 @@ customer_churn_analysis/
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Importance of data cleaning in real-world datasets  
 - Difference between accuracy and meaningful evaluation metrics  
@@ -162,7 +162,7 @@ customer_churn_analysis/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Use advanced ML models (Random Forest, XGBoost)  
 - Deploy model as a web application  
@@ -171,7 +171,7 @@ customer_churn_analysis/
 
 ---
 
-## 📬 Conclusion
+## Conclusion
 
 This project demonstrates how data analysis and visualization can be used to understand customer behavior, identify churn drivers, and support data-driven decision-making in a business context.
 
